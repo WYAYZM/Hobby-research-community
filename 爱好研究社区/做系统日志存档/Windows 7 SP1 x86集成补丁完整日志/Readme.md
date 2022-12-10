@@ -1,5 +1,4 @@
-Microsoft Windows [版本 10.0.19044.2006]
-(c) Microsoft Corporation。保留所有权利。
+Windows 7 SP1 x86集成补丁完整日志
 =====================================================================================================================================================================
 
 C:\Users\Administrator>DISM.exe /Get-WimInfo /WimFile:C:\test\images\install.wim
