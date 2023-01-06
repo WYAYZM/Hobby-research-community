@@ -193,18 +193,31 @@
 	暂未完善，召集广大伟大的搬运工前来搬运
 
 ### 搞机工具箱V1.0
+	
 	ES5封装部署背景图集2019-11-16
+	
 	HEVC解码
+		
 		Microsoft.HEVCVideoExtension_2.0.52911.0_x64__8wekyb3d8bbwe
+		
 		SW_DVD5_HEVC_Codec_32BIT_MultiLang_-6_MLF_X23-16998
+		
 		SW_DVD5_HEVC_Codec_64BIT_MultiLang_-6_MLF_X23-16999
+	
 	PE启动U盘制作相关软件
+		
 		Edgeless Hub_Beta_2.27
+		
 		Edgeless ME_微PE_1.1.0.0_Cno
+		
 		U盘启动制作工具
+		
 		ventoy-1.0.84-windows
+		
 		外置工具包2020.0318
+		
 		暂未完善，召集广大伟大的搬运工前来搬运
+	
 	Windows使用小工具
 		系统运维助手
 		系统运维助手独立收取版
