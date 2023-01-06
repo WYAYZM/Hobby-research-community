@@ -667,3 +667,7 @@
 ## 讨论可以前往Diseussions
 
          https://github.com/WYAYZM/Hobby-research-community/discussions/1
+	 
+## 极客工具包更新公告及其重要发布请查看
+
+         https://github.com/WYAYZM/Hobby-research-community/discussions/3
