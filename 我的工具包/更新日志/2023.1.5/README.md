@@ -21,112 +21,178 @@
 		  
 		  2.搬运工家里电脑需要能上网，上传速度够快，8M/S为合格线
 
-6.如何成为工具包更新策划？
-	首先你要是一个合法的中国公民
-	其次为人要三观端正
-	最后资源渠道多的
-
-7.工具包意见+资源求助查阅助理
-	无特殊要求，时间充足，自愿即可
+    6.如何成为工具包更新策划？
 	
-8.注意了，如果只是复制粘贴我的链接进入浏览器，会正常跳转，它有一个界面要求你输入邮箱，这个邮箱是你的邮箱，也可以是别人的邮箱，邮箱我不考究是不是你本人的，是别人的也行，但是我不建议代他人入群获取工具包使用资格，只要你本人在群里我就不会取消你的工具包使用资格，如果你只是为了获取工具包而入群的，拿完就退群的，那么我将会取消你的工具包使用资格，且永久不再提供资格，对于工具包有什么好的建议可以直接在群里提出来或者是直接提交到反馈文件夹里，都可以，多种反馈的方式，任选其一即可，当然也可以在群里跟我们一起交流学术问题，欢迎各位一起前来交流
+	      1.首先你要是一个合法的中国公民
+	
+	      2.其次为人要三观端正
+	
+	      3.最后资源渠道多的
 
-9.访问资源链接需要添加访问链接所需要的邮箱，邮箱可以是任意邮箱[临时邮箱除外]
+    7.工具包意见+资源求助查阅助理
+	
+	   无特殊要求，时间充足，自愿即可
+	
+    8.注意了，如果只是复制粘贴我的链接进入浏览器，会正常跳转，它有一个界面要求你输入邮箱，这个邮箱是你的邮箱，也可以是别人的邮箱，邮箱我不考究是不是你本人的，是别人的也行，但是我不建议代他人入群获取工具包使用资格，只要你本人在群里我就不会取消你的工具包使用资格，如果你只是为了获取工具包而入群的，拿完就退群的，那么我将会取消你的工具包使用资格，且永久不再提供资格，对于工具包有什么好的建议可以直接在群里提出来或者是直接提交到反馈文件夹里，都可以，多种反馈的方式，任选其一即可，当然也可以在群里跟我们一起交流学术问题，欢迎各位一起前来交流
 
-工具包意见+资源求助链接：
-https://hy0417-my.sharepoint.com/:f:/g/personal/wyaznm_hy0417_onmicrosoft_com/EvOOZnLGy61NmFFThxFw0UoBZmrqBheH9bJgddM5b6DnsA
+    9.访问资源链接需要添加访问链接所需要的邮箱，邮箱可以是任意邮箱[临时邮箱除外]
+
+         工具包意见+资源求助链接：
+
+              https://hy0417-my.sharepoint.com/:f:/g/personal/wyaznm_hy0417_onmicrosoft_com/EvOOZnLGy61NmFFThxFw0UoBZmrqBheH9bJgddM5b6DnsA
 
 
-资源访问链接：
-https://hy0417-my.sharepoint.com/:f:/g/personal/wyaznm_hy0417_onmicrosoft_com/EuzXucQDb0lIlYHQdtGGAaEBg-_LhAh_I4_8AnGQzTxbHg
-复制上面的链接进入浏览器粘贴即可
+         资源访问链接：
 
-Office
+              https://hy0417-my.sharepoint.com/:f:/g/personal/wyaznm_hy0417_onmicrosoft_com/EuzXucQDb0lIlYHQdtGGAaEBg-_LhAh_I4_8AnGQzTxbHg
+
+         复制上面的链接进入浏览器粘贴即可
+
+## 工具包资源预览
+
+### Office
+	
 	office 2003
- 		office 2003 标准版64bit
- 		office 2003 SP1 补丁 64bit
- 		office 2003 专业版 32bit
- 		office 2003 专业版 64bit
- 		office 2003 SP3 32 bit
- 	office 2007
+ 		
+		office 2003 标准版64bit
+ 		
+		office 2003 SP1 补丁 64bit
+ 		
+		office 2003 专业版 32bit
+ 		
+		office 2003 专业版 64bit
+ 		
+		office 2003 SP3 32 bit
+ 	
+	office 2007
+		
 		office 2007 Plus 专业增强版
-   	office 2013
+   	
+	office 2013
+		
 		office 2013 Pro 64bit Retail
-  	office 2016
+  	
+	office 2016
+		
 		Visio_Pro_2016_64Bit_ChnSimp_VL_2022-12
+		
 		Project_Pro_2016_64Bit_ChnSimp_VL_2022-12
+		
 		Office_Pro_Plus_2016_x64_ChnSimp_VL_2022-11
-  	office 2019
+  	
+	office 2019
+		
 		Office_Pro_Plus_2019+Project+Visio_x64_zh_CN_VL_2022-12
- 	office 2021
+ 	
+	office 2021
+		
 		Office_Pro_Plus_2021_LTSC+Project+Visio_x64_zh_CN_VL_2022-12
- 	暂未完善，召集广大伟大的搬运工前来搬运
+ 	
+	暂未完善，召集广大伟大的搬运工前来搬运
  
-Corel
+### Corel
+	
 	Corel Crack 通杀注册机
+	
 	CorelDRAW.Graphics.Suite.2022.v24.2.1.446
+	
 	CorelDRAW.Graphics.Suite.2022.v24.2.1.446-ML
+	
 	暂未完善，召集广大伟大的搬运工前来搬运
 
-PDF查看器
+### PDF查看器
+				
 				WPS PDF Pro 独立安装包
+				
 				PDFelement V9.2.1.2007-Setup∕OCR∕Crack
+				
 				暂未完善，召集广大伟大的搬运工前来搬运	
 					
-VMware Workstation 虚拟机注册机
+### VMware Workstation 虚拟机注册机
+	
 	VMware Workstation 10 Crack
+	
 	VMware Workstation 12 Crack
+	
 	VMware Workstation 14 Crack
+	
 	VMware Workstation 15 Crack
+	
 	VMware Workstation 16 Crack
+	
 	VMware Workstation 17 Crack
+	
 	暂未完善，召集广大伟大的搬运工前来搬运
 	
-Vposy修改的Adobe全家桶软件分流【包括所有历史版本】
+        Vposy修改的Adobe全家桶软件分流【包括所有历史版本】
+	
 	暂未完善，召集广大伟大的搬运工前来搬运
 	
-WPS
+### WPS
+	
 	WPS 2016 专业增强版
+	
 	WPS 2012 专业版
+	
 	WPS 2019 教育考试专用版
+	
 	WPS 2019 专业增强版（内置序列号）
+	
 	WPS 校园版
+	
 	暂未完善，召集广大伟大的搬运工前来搬运
 	
-下载管理工具箱
+### 下载管理工具箱
+	
 	IDM 授权工具
+	
 	NDM高速下载器
+	
 	迅雷X 10.1.38.890 去广告SVIP绿色版最终版
+	
 	迅雷X_10.1.38.890_去广告本地SVIP绿色版
+	
 	暂未完善，召集广大伟大的搬运工前来搬运
 
-反病毒防护工具包
+### 反病毒防护工具包
+	
 	IObitMalwareFighterPro最新版 + crake 
+	
 	暂未完善，召集广大伟大的搬运工前来搬运
 	
-图像处理
+### 图像处理
+	
 	Photoshop CS4
 	
-密码数据库软件
+### 密码数据库软件
+	
 	账号密码存储生成1.3_1——吾爱破解出产神器【离线不联网】
 	
-广告拦截
+### 广告拦截
+	
 	Adguard 7.9.1无线重置版
 	
-录屏软件
+### 录屏软件
+	
 	斑迪录屏
+	
 	OBS
 	
-思维导图软件
+### 思维导图软件
+	
 	iMindQCorporate9.0.1.51358
+	
 	XMind2020_10.3.0_64bit_Green
+	
 	暂未完善，召集广大伟大的搬运工前来搬运
 
-截图软件
+### 截图软件
+	
 	Snipaste
+	
 	暂未完善，召集广大伟大的搬运工前来搬运
 
-搞机工具箱V1.0
+### 搞机工具箱V1.0
 	ES5封装部署背景图集2019-11-16
 	HEVC解码
 		Microsoft.HEVCVideoExtension_2.0.52911.0_x64__8wekyb3d8bbwe
