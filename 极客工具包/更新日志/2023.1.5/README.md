@@ -660,6 +660,10 @@
 
 ## 电子极域教室辅助工具
 
-## 有问题请Issues
+## 有问题请Issues 
+    
+         https://github.com/WYAYZM/Hobby-research-community/issues/4
 
 ## 讨论可以前往Diseussions
+
+         https://github.com/WYAYZM/Hobby-research-community/discussions/1
