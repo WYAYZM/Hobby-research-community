@@ -53,7 +53,41 @@
      Beta1: the exponential decay rate of the first-order moment estimation (such as 0.9).
 
      Beta2: exponential decay rate of second-order moment estimation (such as 0.999). This super parameter should be set to a number close to 1 in sparse gradient (such as in NLP or computer vision tasks).
-     
+
      Epsilon: This parameter is a very small number to prevent dividing by zero in the implementation (such as 10E-8).
 
      In addition, learning rate attenuation can also be applied to Adam. The original paper uses the decay rate alpha=alpha/sqrt (t) to update each epoch (t) in logistic regression.
+
+    5.Parameter setting suggested by Adam's paper
+
+     The default parameters for testing machine learning problems are: alpha=0.001, beta1=0.9, beta2=0.999 and epsilon=10E − 8.
+
+     We can also see that the popular deep learning libraries have adopted the parameters recommended in this paper as the default settings.
+
+     TensorFlow：learning_ rate=0.001, beta1=0.9, beta2=0.999, epsilon=1e-08.
+
+     Keras：lr=0.001, beta_ 1=0.9, beta_ 2=0.999, epsilon=1e-08, decay=0.0.
+
+     Blocks：learning_ rate=0.002, beta1=0.9, beta2=0.999, epsilon=1e-08, decay_ factor=1.
+
+     Lasagne：learning_ rate=0.001, beta1=0.9, beta2=0.999, epsilon=1e-08
+
+     Caffe：learning_ rate=0.001, beta1=0.9, beta2=0.999, epsilon=1e-08
+
+     MxNet：learning_ rate=0.001, beta1=0.9, beta2=0.999, epsilon=1e-8
+
+     Torch：learning_ rate=0.001, beta1=0.9, beta2=0.999, epsilon=1e-8
+
+     In the first part, we discussed the basic characteristics and principles of Adam optimization algorithm in deep learning:
+   
+     Adam is an optimization algorithm used to replace random gradient descent in the deep learning model.
+ 
+     Adam combines the best performance of AdaGrad and RMSProp algorithm, and it can still provide an optimization method to solve the sparse gradient and noise problems.
+
+     Adam's parameter adjustment is relatively simple, and the default parameters can handle most problems.
+
+     In the second part, we can start from the original paper to expand the process and update rules of Adam algorithm.
+    
+     Paper: Adam: A Method for Stochastic Optimization
+
+If you want to know more, please visit the original link: https://cloud.tencent.com/developer/article/1057062
