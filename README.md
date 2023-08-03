@@ -4,4 +4,4 @@
 
 QQ群：639691181
 
-QQ频道：AihaCommunity1
+QQ频道：AihaCommunity1 （如果搜搜不到的话也可以找到本存储仓里的频道二维码，扫码加入）
